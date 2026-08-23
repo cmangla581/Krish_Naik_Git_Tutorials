@@ -1,2 +1,2 @@
 
-This is the Github readme file created fot the experimentation. 
+This is the Github readme file created for the experimentation. 
